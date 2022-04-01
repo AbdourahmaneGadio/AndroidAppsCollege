@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weight</string>
+    <string name="bouton1">Bouton 1</string>
+    <string name="bouton2">Bouton 2</string>
+    <string name="bouton3">Bouton 3</string>
+    <string name="bouton4">Bouton 4</string>
+</resources>

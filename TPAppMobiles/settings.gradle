@@ -1,0 +1,31 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "TPAppMobiles"
+include ':app'
+include ':boutonweb'
+include ':etatbouton'
+include ':framelayout'
+include ':imagebutton'
+include ':troisboutons'
+include ':loginmdp'
+include ':multilangues'
+include ':seekbar'
+include ':simpletoast'
+include ':switchgraphique'
+include ':textealeatoire'
+include ':toastperso'
+include ':videoview'
+include ':weight'
+include ':appcontroletest'

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appcontroletest" />
+            <option value="$PROJECT_DIR$/boutonweb" />
+            <option value="$PROJECT_DIR$/etatbouton" />
+            <option value="$PROJECT_DIR$/framelayout" />
+            <option value="$PROJECT_DIR$/imagebutton" />
+            <option value="$PROJECT_DIR$/loginmdp" />
+            <option value="$PROJECT_DIR$/multilangues" />
+            <option value="$PROJECT_DIR$/seekbar" />
+            <option value="$PROJECT_DIR$/simpletoast" />
+            <option value="$PROJECT_DIR$/switchgraphique" />
+            <option value="$PROJECT_DIR$/textealeatoire" />
+            <option value="$PROJECT_DIR$/toastperso" />
+            <option value="$PROJECT_DIR$/troisboutons" />
+            <option value="$PROJECT_DIR$/videoview" />
+            <option value="$PROJECT_DIR$/weight" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

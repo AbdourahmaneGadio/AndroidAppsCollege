@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLanguages</string>
+    <string name="button">Button 1</string>
+    <string name="textView">Hello World !</string>
+</resources>
